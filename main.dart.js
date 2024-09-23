@@ -39217,7 +39217,15 @@ return A.eB(m,A.aAs(new A.J8(B.A4,A.cn(A.a([new A.iU("01. \n","About",1,m),B.iv,
 je(){var s=0,r=A.O(t.z)
 var $async$je=A.P(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.jm("https://brittanychiang.com/resume.pdf",!1,null,!1),$async$je)
+return A.S(
+  A.jm(
+    "https://docs.google.com/document/d/1HNkX3ypEo7HmVCzFGoY7gbo0nWAuGhPIJKCOSRVB4xA/pub",
+    !1,
+    null,
+    !1
+  ),
+  $async$je
+);
 case 2:return A.M(null,r)}})
 return A.N($async$je,r)}}
 A.a6v.prototype={
